@@ -36,7 +36,7 @@ I'm a **Computer Science and Engineering** student with an unwavering passion fo
 - 💻 **Development:** HTML, CSS, Python, SQL
 - 🎯 **Currently Seeking:** UI/UX Design Internships & Entry-level opportunities
 - 📫 **Reach Me:** [praneshuk215@gmail.com](mailto:praneshuk215@gmail.com)
-- 🌐 **Portfolio:** [praneshuk-portfolio.netlify.app](https://praneshuk-portfolio.netlify.app/)
+- 🌐 **Portfolio:** [praneshuk-portfolio.netlify.app](https://praneshfolio.netlify.app/)
 
 ---
 
